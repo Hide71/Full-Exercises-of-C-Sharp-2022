@@ -1,0 +1,12 @@
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\bin\Debug\net6.0\Encapsulamento2.deps.json
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\bin\Debug\net6.0\Encapsulamento2.dll
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\bin\Debug\net6.0\ref\Encapsulamento2.dll
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\bin\Debug\net6.0\Encapsulamento2.pdb
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\obj\Debug\net6.0\Encapsulamento2.csproj.AssemblyReference.cache
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\obj\Debug\net6.0\Encapsulamento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\obj\Debug\net6.0\Encapsulamento2.AssemblyInfoInputs.cache
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\obj\Debug\net6.0\Encapsulamento2.AssemblyInfo.cs
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\obj\Debug\net6.0\Encapsulamento2.csproj.CoreCompileInputs.cache
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\obj\Debug\net6.0\Encapsulamento2.dll
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\obj\Debug\net6.0\ref\Encapsulamento2.dll
+C:\Users\UNIVESP-22\source\repos\Encapsulamento2\obj\Debug\net6.0\Encapsulamento2.pdb
